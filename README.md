@@ -3,14 +3,14 @@ Complete Python Journey
 A collection of Python programs and Jupyter notebooks documenting my journey through core Python concepts, built during my college Python course.
 
 Topics Covered:
-Variables & Data Types
-Strings & Conditionals
-Lists & Tuples
-Dictionaries & Sets
-Loops
-Functions & Recursion
-File Handling & I/O
-Object-Oriented Programming (OOP) - Part 1
+Variables & Data Types  , 
+Strings & Conditionals   ,
+Lists & Tuples           ,
+Dictionaries & Sets       ,
+Loops                  ,
+Functions & Recursion       , 
+File Handling & I/O          ,
+Object-Oriented Programming (OOP) - Part 1 ,
 
 
 Tech Stack:
